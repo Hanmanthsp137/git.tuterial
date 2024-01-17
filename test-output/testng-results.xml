@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[nareshit]]>
+    </line>
+    <line>
+      <![CDATA[nareshit]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Login completed]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-23T06:32:53Z" name="Default suite" finished-at="2023-12-23T06:33:18Z" duration-ms="25358">
+    <groups>
+    </groups>
+    <test started-at="2023-12-23T06:32:53Z" name="Default test" finished-at="2023-12-23T06:33:18Z" duration-ms="25358">
+      <class name="com.testng.practice.WD_TestNG_Excell">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:com.testng.practice.WD_TestNG_Excell@345f69f3]" started-at="2023-12-23T12:02:53Z" name="startUp" finished-at="2023-12-23T12:03:04Z" duration-ms="11361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="tc001()[pri:0, instance:com.testng.practice.WD_TestNG_Excell@345f69f3]" started-at="2023-12-23T12:03:05Z" name="tc001" finished-at="2023-12-23T12:03:15Z" duration-ms="10467" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[nareshit]]>
+            </line>
+            <line>
+              <![CDATA[nareshit]]>
+            </line>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Login completed]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testng.practice.WD_TestNG_Excell@345f69f3]" started-at="2023-12-23T12:03:15Z" name="tearDown" finished-at="2023-12-23T12:03:18Z" duration-ms="3493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testng.practice.WD_TestNG_Excell -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
